@@ -1,0 +1,40 @@
+body{
+height:100vh;
+width: 100vw;
+display: flex;
+justify-content:center;
+align-items: center;
+
+}
+.container
+{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+height: 450px;
+width: 400px;
+color: white;
+border: double 10px red;
+
+background:linear-gradient(red,blue,yellow);
+
+}
+.subb
+{
+
+
+height:200px;
+width: 10px;
+display: flex;
+justify-content:center;
+align-items: center;
+}
+
+ .sub{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+height: 200px;
+width: 200px;
+
+} 
